@@ -12,5 +12,8 @@ public class Hello {
 
         String home = scnr.next();
         System.out.println("Wow! I've always wanted to go to " + home + ". Thanks for chatting with me. Bye!");
+
+        System.out.println();
+        
     }
 }
